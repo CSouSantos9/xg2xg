@@ -6,7 +6,7 @@ https://github.com/google/startup-os
 
 See also: [System Design Primer](https://github.com/donnemartin/system-design-primer), [The Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/), [Map AWS services to GCP products](https://cloud.google.com/free/docs/map-aws-google-cloud-platform), [Database of Databases](https://dbdb.io/), [Google Open Source Glossary](https://opensource.google/docs/glossary/)
 
-## Technology
+## Technology.
 
 ### Core Technology
 
